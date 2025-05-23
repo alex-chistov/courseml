@@ -1,0 +1,101 @@
+id,name,category,price,imageUrl,popularity
+1,Беспроводные наушники Sony WH-1000XM4,Электроника,24990,https://example.com/sonyxm4.jpg,92
+2,Умная колонка Яндекс.Станция Mini,Электроника,5990,https://example.com/yandexmini.jpg,85
+3,Фитнес-браслет Xiaomi Mi Band 6,Спорт,3490,https://example.com/miband6.jpg,88
+4,Книга «Мастер и Маргарита»,Книги,799,https://example.com/master-margarita.jpg,95
+5,Набор акварельных красок,Творчество,1290,https://example.com/acrylic-set.jpg,76
+6,Электрический чайник Philips HD9350/90,Бытовая техника,3990,https://example.com/philips-kettle.jpg,81
+7,Настольная лампа с беспроводной зарядкой,Дом,2890,https://example.com/lamp-wireless.jpg,70
+8,Смарт-часы Samsung Galaxy Watch7,Электроника,17990,https://example.com/galaxywatch4.jpg,89
+9,Книга «Архипелаг ГУЛАГ» Солженицына,Книги,650,https://example.com/archipelago.jpg,80
+10,Ролики Rollerblade Macroblade 80,Спорт,8990,https://example.com/rollerblades.jpg,67
+11,Набор для вышивания Dimensions,Творчество,1590,https://example.com/dimensions.jpg,60
+12,Соковыжималка Braun Multiquick 5,Бытовая техника,4990,https://example.com/braun-juicer.jpg,73
+13,Подушка ортопедическая Memory Foam,Дом,2290,https://example.com/memory-pillow.jpg,77
+14,Книга «Кафка на пляже» Мураками,Книги,720,https://example.com/kafka-beach.jpg,65
+15,Футбольный мяч Adidas Finale,Спорт,2990,https://example.com/adidas-ball.jpg,82
+16,Набор художественных кистей Royal & Langnickel,Творчество,890,https://example.com/brush-set.jpg,55
+17,Пылесос-робот Xiaomi Mi Robot,Бытовая техника,15990,https://example.com/mi-robot-vac.jpg,90
+18,Декоративная ваза керамическая,Дом,1190,https://example.com/ceramic-vase.jpg,50
+19,Bluetooth-колонка JBL Flip 5,Электроника,6990,https://example.com/jbl-flip5.jpg,84
+20,Книга «1984» Дж. Оруэлл,Книги,580,https://example.com/1984.jpg,88
+21,Эспандер многофункциональный,Спорт,450,https://example.com/expander.jpg,58
+22,Набор для скрапбукинга,Творчество,1390,https://example.com/scrapbook-set.jpg,52
+23,Смарт-термостат Netatmo,Бытовая техника,8990,https://example.com/netatmo.jpg,68
+24,Плед шерстяной 130×170 см,Дом,2490,https://example.com/wool-blanket.jpg,74
+25,Наручные часы Casio G-Shock,Аксессуары,7990,https://example.com/gshock.jpg,83
+26,Кожаный кошелёк Montblanc,Аксессуары,12990,https://example.com/montblanc-wallet.jpg,61
+27,Солнцезащитные очки Ray-Ban Aviator,Аксессуары,10490,https://example.com/rayban-aviator.jpg,79
+28,Электронная книга Kindle Paperwhite,Электроника,9990,https://example.com/kindle.jpg,87
+29,Книга «Пикник на обочине» Стругацкие,Книги,680,https://example.com/picnic.jpg,63
+30,Йога-мат Manduka PRO,Спорт,6990,https://example.com/manduka-mat.jpg,72
+31,Игровая приставка PlayStation 5,Электроника,49990,https://example.com/ps5.jpg,94
+32,Коллекционные фигурки Funko Pop,Креатив,1590,https://example.com/funko.jpg,66
+33,Кофемашина De’Longhi ECAM 22.110.B,Бытовая техника,25990,https://example.com/delonghi.jpg,78
+34,Набор специй Gourmet,Дом,990,https://example.com/spice-set.jpg,57
+35,Книга «Братья Карамазовы» Достоевский,Книги,850,https://example.com/karamazov.jpg,81
+36,Велотренажёр DFC B990,Спорт,21990,https://example.com/bike-trainer.jpg,64
+37,Шахматы LUXURY Edition,Креатив,2990,https://example.com/chess-lux.jpg,59
+38,Умный браслет Garmin Vivosmart 4,Спорт,8990,https://example.com/garmin4.jpg,83
+39,Очиститель воздуха Xiaomi Mi Air Purifier 3H,Бытовая техника,8990,https://example.com/airpurifier.jpg,71
+40,Книга «Ревизор» Гоголь,Книги,550,https://example.com/revisor.jpg,54
+41,Рюкзак туристический Deuter,Отдых,7490,https://example.com/deuter.jpg,62
+42,Набор для барбекю Weber,Дом,12990,https://example.com/weber.jpg,69
+43,Керамический молочник и сахарница,Дом,1190,https://example.com/ceramic-set.jpg,48
+44,LED-полоска RGB для декора,Дом,790,https://example.com/led-strip.jpg,53
+45,Автоматическая кормушка для животных,Дом,2290,https://example.com/pet-feeder.jpg,47
+46,Книга «Сумерки» Стефани Майер,Книги,620,https://example.com/twilight.jpg,60
+47,Фитбол для йоги,Спорт,1290,https://example.com/fitball.jpg,55
+48,Набор для создания свечей,Креатив,1490,https://example.com/candle-kit.jpg,51
+49,Электронный будильник с проектором,Дом,990,https://example.com/projector-clock.jpg,50
+50,Портативный SSD Samsung T7 1TB,Электроника,11990,https://example.com/samsung-t7.jpg,88
+51,Книга «Гарри Поттер и философский камень»,Книги,750,https://example.com/hp1.jpg,92
+52,Настольный мини-аквариум Ecosmart,Дом,3490,https://example.com/mini-aquarium.jpg,45
+53,Набор для вышивки бисером,Креатив,1090,https://example.com/beadembroidery.jpg,49
+54,Электронный дартс с автоматическим счётом,Спорт,2390,https://example.com/e-darts.jpg,56
+55,Мини-проектор Epson EF-100,Электроника,49990,https://example.com/epson-ef100.jpg,77
+56,Робот-конструктор LEGO Mindstorms,Креатив,26990,https://example.com/lego-mindstorms.jpg,73
+57,Книга «451 градус по Фаренгейту» Брэдбери,Книги,630,https://example.com/fahrenheit451.jpg,58
+58,Увлажнитель воздуха Xiaomi,Дом,2790,https://example.com/xiaomi-humidifier.jpg,68
+59,Набор инструментов для дома,Дом,1590,https://example.com/tool-kit.jpg,52
+60,Электрический гриль Tefal OptiGrill,Бытовая техника,9990,https://example.com/tefal-grill.jpg,75
+61,Плед с рукавами,Дом,3190,https://example.com/sleeve-blanket.jpg,66
+62,Мини-холодильник холодильник для напитков,Бытовая техника,7590,https://example.com/mini-fridge.jpg,58
+63,Спортивные футбольные бутсы Nike Mercurial,Спорт,8990,https://example.com/nike-mercurial.jpg,82
+64,Набор для каллиграфии,Креатив,2190,https://example.com/calligraphy-set.jpg,54
+65,Умные очки Snap Spectacles,Электроника,15990,https://example.com/snap-spectacles.jpg,61
+66,Книга «Хоббит» Толкин,Книги,780,https://example.com/hobbit.jpg,90
+67,Набор для бариста: френч-пресс и кофемолка,Бытовая техника,4590,https://example.com/french-press.jpg,72
+68,Худи с подогревом USB,Одежда,4990,https://example.com/heated-hoodie.jpg,47
+69,Электронный переводчик Pocketalk,Электроника,16990,https://example.com/pocketalk.jpg,63
+70,Рама для картин 50×70 см,Дом,890,https://example.com/frame-50x70.jpg,44
+71,Набор для мыловарения,Креатив,1290,https://example.com/soap-making.jpg,50
+72,Книга «Сияние» Кинг,Книги,650,https://example.com/shining.jpg,77
+73,Пароварка Panasonic,Бытовая техника,3390,https://example.com/panasonic-steamer.jpg,69
+74,Набор эспандеров Resistance Bands,Спорт,590,https://example.com/resistance-bands.jpg,55
+75,Ночник-проектор звездного неба,Дом,1490,https://example.com/star-projector.jpg,60
+76,Портмоне RFID защитой,Аксессуары,1690,https://example.com/rfid-wallet.jpg,48
+77,Внешний аккумулятор Anker PowerCore 10000,Электроника,2490,https://example.com/anker-10000.jpg,85
+78,Набор акриловых красок Golden,Креатив,2590,https://example.com/golden-acrylic.jpg,53
+79,Книга «Маленький принц» Экзюпери,Книги,580,https://example.com/little-prince.jpg,91
+80,Туристическая кофеварка AeroPress,Бытовая техника,3490,https://example.com/aeropress.jpg,65
+81,Комплект фитнес-резинок с ручками,Спорт,890,https://example.com/fitness-bands.jpg,52
+82,Умная лампа Xiaomi Yeelight,Дом,1990,https://example.com/yeelight.jpg,78
+83,Набор для декупажа,Креатив,1190,https://example.com/decoupage.jpg,46
+84,Книга «Бегущий в лабиринте» Джеймс,Книги,620,https://example.com/maze-runner.jpg,59
+85,Портативная софа-кровать,Дом,4990,https://example.com/sofa-bed.jpg,41
+86,Веб-камера Logitech C920,Электроника,3490,https://example.com/logitech-c920.jpg,83
+87,Набор для суши и роллов,Дом,1590,https://example.com/sushi-kit.jpg,49
+88,Эспандер «Кольцо» Power Twister,Спорт,1290,https://example.com/power-twister.jpg,57
+89,Набор цветных карандашей Prismacolor,Креатив,1890,https://example.com/prismacolor.jpg,51
+90,Книга «Дюна» Герберт,Книги,810,https://example.com/dune.jpg,84
+91,Смарт-браслет Fitbit Charge 5,Спорт,9990,https://example.com/fitbit-charge5.jpg,79
+92,Электрическая зубная щетка Oral-B Genius,Бытовая техника,6990,https://example.com/oralb-genius.jpg,75
+93,Автомобильный видеорегистратор Xiaomi 70mai,Электроника,3290,https://example.com/70mai.jpg,68
+94,Набор для росписи по номерам,Креатив,990,https://example.com/paint-by-numbers.jpg,45
+95,Книга «Сила подсознания» Джозеф Мёрфи,Книги,730,https://example.com/power-subconscious.jpg,64
+96,Планшет для рисования XP-Pen Deco,Электроника,8990,https://example.com/xppen.jpg,62
+97,Термос Stanley Classic 1 л,Дом,2390,https://example.com/stanley-thermos.jpg,70
+98,Набор для создания бомбочек для ванны,Креатив,1190,https://example.com/bath-bombs.jpg,43
+99,Книга «Преступление и наказание» Достоевский,Книги,780,https://example.com/crime-punishment.jpg,86
+100,Педальный мини-тренажёр для ног,Спорт,2490,https://example.com/mini-exerciser.jpg,58
